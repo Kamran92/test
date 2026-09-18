@@ -1,0 +1,15 @@
+:root {
+  color-scheme: light;
+  --content-max: 1100px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', 'Segoe UI', system-ui, Arial, sans-serif;
+  background: #f5f6f8;
+  color: #222b39;
+}
